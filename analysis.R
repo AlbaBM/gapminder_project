@@ -1,3 +1,3 @@
 # Gapminder analysis repository
 
-# first lets download the gapminder file
+# first let's download the gapminder file
